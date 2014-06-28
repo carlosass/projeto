@@ -20,9 +20,7 @@
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
-				<dependency>
 
-		</dependency>
 		<dependency>
 			<groupId>br.com.ambientinformatica</groupId>
 			<artifactId>ambient-jpa</artifactId>
